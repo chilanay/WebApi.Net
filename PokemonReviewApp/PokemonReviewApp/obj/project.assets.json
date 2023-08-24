@@ -442,11 +442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DNet\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
+      "projectUniqueName": "D:\\OneDrive - ADA University\\Documents\\GitHub\\WebApi.Net\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
       "projectName": "PokemonReviewApp",
-      "projectPath": "D:\\DNet\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
+      "projectPath": "D:\\OneDrive - ADA University\\Documents\\GitHub\\WebApi.Net\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
       "packagesPath": "C:\\Users\\Chilanay\\.nuget\\packages\\",
-      "outputPath": "D:\\DNet\\PokemonReviewApp\\PokemonReviewApp\\obj\\",
+      "outputPath": "D:\\OneDrive - ADA University\\Documents\\GitHub\\WebApi.Net\\PokemonReviewApp\\PokemonReviewApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Chilanay\\AppData\\Roaming\\NuGet\\NuGet.Config",
