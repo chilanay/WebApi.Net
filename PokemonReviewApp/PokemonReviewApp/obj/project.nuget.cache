@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TXumimnGMdZdc2BE0Y/u6H21dXiTh+wCJ6cwYfsDMbdpR/7r3LwSkKc0uIyhntgGzsCTr6ZosqzsQ24Pl7mRzQ==",
+  "dgSpecHash": "CkKr2NjYNx6JdO1veGHChhZUEHfPf/RfWN6aMBYkT7V8pLhDU4DYOKUgXGqGwCtuxAtzbt7OZ03qcGqxkmXROw==",
   "success": true,
   "projectFilePath": "D:\\OneDrive - ADA University\\Documents\\GitHub\\WebApi.Net\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
   "expectedPackageFiles": [
@@ -17,6 +17,7 @@
     "C:\\Users\\Chilanay\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.10\\microsoft.entityframeworkcore.design.7.0.10.nupkg.sha512",
     "C:\\Users\\Chilanay\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.10\\microsoft.entityframeworkcore.relational.7.0.10.nupkg.sha512",
     "C:\\Users\\Chilanay\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.10\\microsoft.entityframeworkcore.sqlserver.7.0.10.nupkg.sha512",
+    "C:\\Users\\Chilanay\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.10\\microsoft.entityframeworkcore.tools.7.0.10.nupkg.sha512",
     "C:\\Users\\Chilanay\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Chilanay\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Chilanay\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
